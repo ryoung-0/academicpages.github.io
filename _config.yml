@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ray Young"
+title                    : "Raymond Young"
 title_separator          : "-"
-name                     : &name "Ray Young"
+name                     : &name "Raymond Young"
 description              : &description "Ph.D. Candidate @ SIO"
 url                      : https://ryoung-0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
