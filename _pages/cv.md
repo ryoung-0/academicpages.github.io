@@ -31,19 +31,19 @@ Honors and Awards
 Journal Publications
 ====
 * 2024 - **R Young**, S Merrifield, M Anderson, M Mazloff, and E Terrill, _A Greedy Depth Seeking Behavior for Energy-Efficient Transits by an Autonomous Underwater Vehicle_, IEEE Journal of Oceanic Engineering. (accepted, in press)
-* 2023 - S Merrifield, S Celona, RA McCarthy, A Pietruszka, H Batchelor, R Hess, A Nager, **R Young**, K Sadorf, LA Levin, DL Valentine, JE Conrad, EJ Terrill. _Wide-Area Debris Field and Seabed Characterization of a Deep Ocean Dump Site Surveyed by Autonomous Underwater Vehicles_, Environmental Sciences and Technology. https://doi.org/10.1021/acs.est.3c01256
+* 2023 - S Merrifield, S Celona, RA McCarthy, A Pietruszka, H Batchelor, R Hess, A Nager, **R Young**, K Sadorf, LA Levin, DL Valentine, JE Conrad, EJ Terrill. _Wide-Area Debris Field and Seabed Characterization of a Deep Ocean Dump Site Surveyed by Autonomous Underwater Vehicles_, Environmental Sciences and Technology. <https://doi.org/10.1021/acs.est.3c01256>
 
 Conference Publications/Presentations
 =====
-* 2023 - **R Young**, S Merrifield, M Anderson, E Terrill, A Simulation Framework for Environmentally-Aware Autonomous Underwater Vehicle (AUV) Mission Planning and Algorithm Development, in proceedings of OCEANS 2023-MTS-IEEE US Gulf Coast. https://doi.org/10.23919/OCEANS52994.2023.10337130
+* 2023 - **R Young**, S Merrifield, M Anderson, E Terrill, A Simulation Framework for Environmentally-Aware Autonomous Underwater Vehicle (AUV) Mission Planning and Algorithm Development, in proceedings of OCEANS 2023-MTS-IEEE US Gulf Coast. <https://doi.org/10.23919/OCEANS52994.2023.10337130>
 
-* 2022 - J Chang, M Anderson, S Merrifield, A Nager, R Hess, **R Young**, S Kitchen, E Terrill, _Power Efficiency Autonomy for Long Duration AUV Operation_, in proceedings of the 2022 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Singapore. https://doi.org/10.1109/AUV53081.2022.9965807
+* 2022 - J Chang, M Anderson, S Merrifield, A Nager, R Hess, **R Young**, S Kitchen, E Terrill, _Power Efficiency Autonomy for Long Duration AUV Operation_, in proceedings of the 2022 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Singapore. <https://doi.org/10.1109/AUV53081.2022.9965807>
 
-* 2021 - **R Young**, S Merrifield, M Anderson, E Terrill, _USV Navigation Geometry for Surface Current Inference_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA. https://doi.org/10.23919/OCEANS44145.2021.9705780
+* 2021 - **R Young**, S Merrifield, M Anderson, E Terrill, _USV Navigation Geometry for Surface Current Inference_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA. <https://doi.org/10.23919/OCEANS44145.2021.9705780>
 
-* 2021 - A Amador, S Merrifield, R McCarthy, **R Young**, E Terrill, _Wave Glider Speed Model for Real-time Planning_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA https://doi.org/10.23919/OCEANS44145.2021.9705782
+* 2021 - A Amador, S Merrifield, R McCarthy, **R Young**, E Terrill, _Wave Glider Speed Model for Real-time Planning_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA <https://doi.org/10.23919/OCEANS44145.2021.9705782>
 
-* 2019 - S. Merrifield, J. Shapiro, R. Young, L.S. Laurent, H. Simmons, M. Otero, … E. Terrill, _Autonomy system for USV/UUV coordinated sampling_, in proceedings of OCEANS 2019 MTS/IEEEE SEATTLE, Seattle, USA. https://doi.org/10.23919/OCEANS40490.2019.8962555
+* 2019 - S. Merrifield, J. Shapiro, R. Young, L.S. Laurent, H. Simmons, M. Otero, … E. Terrill, _Autonomy system for USV/UUV coordinated sampling_, in proceedings of OCEANS 2019 MTS/IEEEE SEATTLE, Seattle, USA. <https://doi.org/10.23919/OCEANS40490.2019.8962555>
 
 Posters and Talks
 =====
