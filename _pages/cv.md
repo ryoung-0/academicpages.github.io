@@ -35,15 +35,17 @@ Journal Publications
 
 Conference Publications/Presentations
 =====
-* 2023 - **R Young**, S Merrifield, M Anderson, E Terrill, A Simulation Framework for Environmentally-Aware Autonomous Underwater Vehicle (AUV) Mission Planning and Algorithm Development, in proceedings of OCEANS 2023-MTS-IEEE US Gulf Coast. <https://doi.org/10.23919/OCEANS52994.2023.10337130>
+* 2023 - **R Young***, S Merrifield, M Anderson, E Terrill, A Simulation Framework for Environmentally-Aware Autonomous Underwater Vehicle (AUV) Mission Planning and Algorithm Development, in proceedings of OCEANS 2023-MTS-IEEE US Gulf Coast. <https://doi.org/10.23919/OCEANS52994.2023.10337130>
 
-* 2022 - J Chang, M Anderson, S Merrifield, A Nager, R Hess, **R Young**, S Kitchen, E Terrill, _Power Efficiency Autonomy for Long Duration AUV Operation_, in proceedings of the 2022 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Singapore. <https://doi.org/10.1109/AUV53081.2022.9965807>
+* 2022 - J Chang*, M Anderson, S Merrifield, A Nager, R Hess, **R Young**, S Kitchen, E Terrill, _Power Efficiency Autonomy for Long Duration AUV Operation_, in proceedings of the 2022 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Singapore. <https://doi.org/10.1109/AUV53081.2022.9965807>
 
-* 2021 - **R Young**, S Merrifield, M Anderson, E Terrill, _USV Navigation Geometry for Surface Current Inference_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA. <https://doi.org/10.23919/OCEANS44145.2021.9705780>
+* 2021 - **R Young***, S Merrifield, M Anderson, E Terrill, _USV Navigation Geometry for Surface Current Inference_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA. <https://doi.org/10.23919/OCEANS44145.2021.9705780>
 
-* 2021 - A Amador, S Merrifield, R McCarthy, **R Young**, E Terrill, _Wave Glider Speed Model for Real-time Planning_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA <https://doi.org/10.23919/OCEANS44145.2021.9705782>
+* 2021 - A Amador*, S Merrifield, R McCarthy, **R Young**, E Terrill, _Wave Glider Speed Model for Real-time Planning_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA <https://doi.org/10.23919/OCEANS44145.2021.9705782>
 
-* 2019 - S. Merrifield, J. Shapiro, R. Young, L.S. Laurent, H. Simmons, M. Otero, … E. Terrill, _Autonomy system for USV/UUV coordinated sampling_, in proceedings of OCEANS 2019 MTS/IEEEE SEATTLE, Seattle, USA. <https://doi.org/10.23919/OCEANS40490.2019.8962555>
+* 2019 - S. Merrifield, J. Shapiro, R. Young*, L.S. Laurent, H. Simmons, M. Otero, … E. Terrill, _Autonomy system for USV/UUV coordinated sampling_, in proceedings of OCEANS 2019 MTS/IEEEE SEATTLE, Seattle, USA. <https://doi.org/10.23919/OCEANS40490.2019.8962555>
+
+(* - presenting author)
 
 Posters and Talks
 =====
