@@ -30,7 +30,7 @@ Honors and Awards
 
 Journal Publications
 ====
-* 2024 - **R Young**, S Merrifield, M Anderson, M Mazloff, and E Terrill, _A Greedy Depth Seeking Behavior for Energy-Efficient Transits by an Autonomous Underwater Vehicle_, IEEE Journal of Oceanic Engineering. (accepted, in press)
+* 2024 - **R Young**, S Merrifield, M Anderson, M Mazloff, E Terrill, _A Greedy Depth Seeking Behavior for Energy-Efficient Transits by an Autonomous Underwater Vehicle_, IEEE Journal of Oceanic Engineering. (accepted, in press)
 * 2023 - S Merrifield, S Celona, RA McCarthy, A Pietruszka, H Batchelor, R Hess, A Nager, **R Young**, K Sadorf, LA Levin, DL Valentine, JE Conrad, EJ Terrill. _Wide-Area Debris Field and Seabed Characterization of a Deep Ocean Dump Site Surveyed by Autonomous Underwater Vehicles_, Environmental Sciences and Technology. <https://doi.org/10.1021/acs.est.3c01256>
 
 Conference Publications/Presentations
