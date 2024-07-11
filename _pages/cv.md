@@ -52,7 +52,7 @@ Posters and Talks
 * May 2024 - **R Young**, FH Akins, S Merrifield, _Optimal Path Planning for Underwater Vehicles: Methods and Simulation_, SIO Applied Ocean Science Seminar, La Jolla, CA. (talk)
 * Apr 2024 - **R Young**, FH Akins, S Merrifield, _Time Optimal Path Planning for Underwater Vehicles in Time-Dependent Flows with the Maximum Principle_, Southern California Applied Mathematics Symposium, La Jolla, CA. (poster)
 * Sep 2022 - **R Young**, S Merrifield, M Anderson, E Terrill, _A Sampling Based Approach to Energy-Optimal Planning in Time-Varying Flows_, 2022 IEEE/OES AUV Symposium, Singapore. (talk)
-* Mar 2022 - **R Young**, S Merrifield, M Anderson, E Terrill, _Current Aware Planning for Long-Duration USVs in a Time-Varying Environment_. 2022 Ocean Sciences Meeting}. (talk)
+* Mar 2022 - **R Young**, S Merrifield, M Anderson, E Terrill, _Current Aware Planning for Long-Duration USVs in a Time-Varying Environment_. 2022 Ocean Sciences Meeting. (talk)
 
 Field Work
 =====
