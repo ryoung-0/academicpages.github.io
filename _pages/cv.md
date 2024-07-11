@@ -8,57 +8,75 @@ redirect_from:
 ---
 
 {% include base_path %}
+(updated 7/2024)
+
+Research Goal
+======
+Improving the autonomous capabilities of marine vehicles by applying theory form robotics, optimization, and estimation to problems on environmentally aware path planning and adaptive sampling.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2020 - Present - Scripps Institution of Oceanography
+  * PhD Candidate - Oceanography (Applied Ocean Science)
+  * Advisor - Dr. Sophia Merrifield
+  * Lab - Coastal Observing Research and Development Center (CORDC)
+* 2022 - M.S., Mechanical Engineering, University of California, San Diego
+* 2020 - B.S., Mechanical Engineering, University of California, San Diego
 
-Work experience
+Honors and Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2025 - National Defense Science and Engineering Graduate (NDSEG) Fellowship
+* Fall 2020 - Scripps Fellowship
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Journal Publications
+====
+* 2024 - **R Young**, S Merrifield, M Anderson, M Mazloff, and E Terrill, _A Greedy Depth Seeking Behavior for Energy-Efficient Transits by an Autonomous Underwater Vehicle_, IEEE Journal of Oceanic Engineering. (accepted, in press)
+* 2023 - S Merrifield, S Celona, RA McCarthy, A Pietruszka, H Batchelor, R Hess, A Nager, **R Young**, K Sadorf, LA Levin, DL Valentine, JE Conrad, EJ Terrill. _Wide-Area Debris Field and Seabed Characterization of a Deep Ocean Dump Site Surveyed by Autonomous Underwater Vehicles_, Environmental Sciences and Technology. https://doi.org/10.1021/acs.est.3c01256
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Conference Publications/Presentations
+=====
+* 2023 - **R Young**, S Merrifield, M Anderson, E Terrill, A Simulation Framework for Environmentally-Aware Autonomous Underwater Vehicle (AUV) Mission Planning and Algorithm Development, in proceedings of OCEANS 2023-MTS-IEEE US Gulf Coast. https://doi.org/10.23919/OCEANS52994.2023.10337130
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* 2022 - J Chang, M Anderson, S Merrifield, A Nager, R Hess, **R Young**, S Kitchen, E Terrill, _Power Efficiency Autonomy for Long Duration AUV Operation_, in proceedings of the 2022 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Singapore. https://doi.org/10.1109/AUV53081.2022.9965807
+
+* 2021 - **R Young**, S Merrifield, M Anderson, E Terrill, _USV Navigation Geometry for Surface Current Inference_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA. https://doi.org/10.23919/OCEANS44145.2021.9705780
+
+* 2021 - A Amador, S Merrifield, R McCarthy, **R Young**, E Terrill, _Wave Glider Speed Model for Real-time Planning_, in proceedings of OCEANS 2021: San Diego-Porto, San Diego, USA https://doi.org/10.23919/OCEANS44145.2021.9705782
+
+* 2019 - S. Merrifield, J. Shapiro, R. Young, L.S. Laurent, H. Simmons, M. Otero, … E. Terrill, _Autonomy system for USV/UUV coordinated sampling_, in proceedings of OCEANS 2019 MTS/IEEEE SEATTLE, Seattle, USA. https://doi.org/10.23919/OCEANS40490.2019.8962555
+
+Posters and Talks
+=====
+* May 2024 - **R Young**, FH Akins, S Merrifield, _Optimal Path Planning for Underwater Vehicles: Methods and Simulation_, SIO Applied Ocean Science Seminar, La Jolla, CA. (talk)
+* Apr 2024 - **R Young**, FH Akins, S Merrifield, _Time Optimal Path Planning for Underwater Vehicles in Time-Dependent Flows with the Maximum Principle_, Southern California Applied Mathematics Symposium, La Jolla, CA. (poster)
+* Sep 2022 - **R Young**, S Merrifield, M Anderson, E Terrill, _A Sampling Based Approach to Energy-Optimal Planning in Time-Varying Flows_, 2022 IEEE/OES AUV Symposium, Singapore. (talk)
+* Mar 2022 - **R Young**, S Merrifield, M Anderson, E Terrill, _Current Aware Planning for Long-Duration USVs in a Time-Varying Environment_. 2022 Ocean Sciences Meeting}. (talk)
+
+Field Work
+=====
+* May 2023 - TN-417 ARCTERX Process Research Cruise (16 days)
+  * R/V Thomas G. Thompson - Koror, Palau
+  * Role: Scientist - assisted deployment/recovery and data processing for Wave Glider USVs and Remus AUVs. Developed tools for analysis/visualization of shipboard ADCP data.
+* Apr 2022 - RR2203 ARCTERX Pilot Research Cruise (12 days)
+  * R/V Roger Revelle - Guam, USA
+  * Role: Scientist - assisted deployment/recovery and data processing for Wave Glider USVs and Remus AUVs.
+* Sep-Oct 2021 - AR60-02 NORSE Pilot Research Cruise (35 days)
+  * R/V Neil Armstrong - Reykjavik, Iceland
+  * Role: Scientist - assisted deployment/recovery and operation of a Wave Glider for collaborative sampling.
+ 
 Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+====
+* Teaching Assistant - UCSD, SIO Department
+  * Winter 2024 - SIO111: Introduction to Ocean Waves (for Falk Fedderson)
+  * Spring 2021 - SIOC209: Hacking for the Oceans (for Sophia Merrifield)
+* Volunteer Instructor - SIO Incoming Graduate Student Mathematics Workshop
+  * Fall 2024, Fall 2022 - Lectures on probability and statistics
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Service and Leadership
+====
+* 2024 - Incoming Graduate Student Mathematics Workshop (leadership)
+* 2022-2023 - Scripps Graduate Student Peer Mentor Program (leadership)
+* 2021-2023 - Scripps Graduate Student Peer Mentor Program (mentor)
+* 2021-2022 - Applied Ocean Science Seminar Organizing Committee
+* 2021-2022 - Unlearning Racism in Geosciences (URGE) subpod member on demographic data
