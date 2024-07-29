@@ -49,6 +49,7 @@ Conference Publications/Presentations
 
 Posters and Talks
 =====
+* July 2024 - **R Young**, _Current-Aware Autonomy_, 5th Annual NDSEG Fellowship Conference, New Orleans, LA. (talk and poster)
 * May 2024 - **R Young**, FH Akins, S Merrifield, _Optimal Path Planning for Underwater Vehicles: Methods and Simulation_, SIO Applied Ocean Science Seminar, La Jolla, CA. (talk)
 * Apr 2024 - **R Young**, FH Akins, S Merrifield, _Time Optimal Path Planning for Underwater Vehicles in Time-Dependent Flows with the Maximum Principle_, Southern California Applied Mathematics Symposium, La Jolla, CA. (poster)
 * Sep 2022 - **R Young**, S Merrifield, M Anderson, E Terrill, _A Sampling Based Approach to Energy-Optimal Planning in Time-Varying Flows_, 2022 IEEE/OES AUV Symposium, Singapore. (talk)
