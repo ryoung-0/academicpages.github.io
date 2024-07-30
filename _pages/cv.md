@@ -16,7 +16,7 @@ Improving the autonomous capabilities of marine vehicles by applying theory form
 
 Education
 ======
-* 2020 - Present - Scripps Institution of Oceanography
+* 2020 - Present - Scripps Institution of Oceanography (expected graduation, 8/2025)
   * PhD Candidate - Oceanography (Applied Ocean Science)
   * Advisor - Dr. Sophia Merrifield
   * Lab - Coastal Observing Research and Development Center (CORDC)
