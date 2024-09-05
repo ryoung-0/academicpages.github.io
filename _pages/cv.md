@@ -12,7 +12,7 @@ redirect_from:
 
 Research Goal
 ======
-Improving the autonomous capabilities of marine vehicles by applying theory form robotics, optimization, and estimation to problems on environmentally aware path planning and adaptive sampling.
+Improving the autonomous capabilities of marine vehicles by applying theory from robotics, optimization, and estimation to problems on environmentally aware path planning and adaptive sampling.
 
 Education
 ======
