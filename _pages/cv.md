@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-(updated 7/2024)
+(updated 9/2024)
 
 Research Goal
 ======
